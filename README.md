@@ -11,6 +11,19 @@ Using GROQ to retrieve data from Sanity Studio and display it in your Web 3.0 Ap
 and Deploying and hosting the app on Vercel 
 
 ## Prototype
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 <div class="row">
   <div class="column">
