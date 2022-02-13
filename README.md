@@ -6,10 +6,10 @@
 # DesignTounsi 
 DesignTounsi is a Blockchain Web 3.0 App developed using Next JS, Sanity.io, thirdweb, Tailwind CSS, and Vercel .. 
 
-during this project i learned  about: Building a Web 3.0 Application with Next JS ,Styling your app using Styled Components
-Create and mint your own NFT Tokens using the thirdweb SDK , Adding Web 3.0 authentication using Metamask ,Storing data and 
-information about the tokens you created in Sanity.io , Using GROQ to retrieve data from Sanity Studio and display it in My 
-Web 3.0 App ,Creating a send and receive functionality for your NFTs on the blockchain and Deploying and hosting the app on Vercel  .
+during this project i learned  about: Building a Web 3.0 Application with Next JS ,Styling  app using Styled Components
+Create and mint my own NFT Tokens using the thirdweb SDK , Adding Web 3.0 authentication using Metamask ,Storing data and 
+information about the tokens i created in Sanity.io , how to use GROQ to retrieve data from Sanity Studio and display it in my 
+Web 3.0 App ,Creating a send and receive functionality for my NFTs on the blockchain and Deploying and hosting the app on Vercel  .
 
 # Prototype
 <p align="center">
