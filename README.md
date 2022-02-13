@@ -9,7 +9,9 @@ and Deploying and hosting the app on Vercel
 ## Prototype
 <p align="center">
   <img src="https://i.imgur.com/QCuXlz6.png"  alt="accessibility text">
+  <br>
   <img src="https://i.imgur.com/5yYqOC9.png" alt="accessibility text">
+  <br>
   <img src="https://i.imgur.com/JCqVbeS.png"  alt="accessibility text">
 </p>
 
