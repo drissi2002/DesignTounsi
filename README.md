@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://i.imgur.com/v0Q9HlO.png"  alt="accessibility text">
+</p>
+
+
+# DesignTounsi 
+DesignTounsi is a Blockchain Web 3.0 App developed using Next JS, Sanity.io, thirdweb, Tailwind CSS, and Vercel .. 
+
+during this project i learned  about: Building a Web 3.0 Application with Next JS ,Styling your app using Styled Components
+Create and mint your own NFT Tokens using the thirdweb SDK , Adding Web 3.0 authentication using Metamask ,Storing data and 
+information about the tokens you created in Sanity.io , Using GROQ to retrieve data from Sanity Studio and display it in My 
+Web 3.0 App ,Creating a send and receive functionality for your NFTs on the blockchain and Deploying and hosting the app on Vercel  .
+
+# Prototype
+<p align="center">
+  <img src="https://i.imgur.com/Az3rQp2.png"  alt="accessibility text">
+</p>
+<br><br>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -26,7 +44,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-# Next.js + Tailwind CSS Example
+## Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
