@@ -11,12 +11,10 @@ Using GROQ to retrieve data from Sanity Studio and display it in your Web 3.0 Ap
 and Deploying and hosting the app on Vercel 
 
 ## Prototype
-<p align="center">
-  <img src="https://i.imgur.com/QCuXlz6.png"  alt="accessibility text">
-  <br>
-  <br>
-  <img src="https://i.imgur.com/JCqVbeS.png"  alt="accessibility text">
-</p>
+<div class="container"><img https://i.imgur.com/QCuXlz6.png"  alt="accessibility text"> 
+<img src="https://i.imgur.com/JCqVbeS.png"  alt="accessibility text" >
+</div> 
+
 
 ## Next.js + Tailwind CSS Example
 
