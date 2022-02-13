@@ -11,7 +11,8 @@ Using GROQ to retrieve data from Sanity Studio and display it in your Web 3.0 Ap
 and Deploying and hosting the app on Vercel 
 
 ## Prototype
-<div class="container"><img https://i.imgur.com/QCuXlz6.png"  alt="accessibility text"> 
+<div class="container">
+<img src="https://i.imgur.com/QCuXlz6.png"  alt="accessibility text"> 
 <img src="https://i.imgur.com/JCqVbeS.png"  alt="accessibility text" >
 </div> 
 
