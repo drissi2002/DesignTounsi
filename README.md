@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/v0Q9HlO.png"  alt="accessibility text">
+</p>
+
 # About DesignTounsi
 𝘿𝙚𝙨𝙞𝙜𝙣𝙏𝙤𝙪𝙣𝙨𝙞  is a  Blockchain Web 3.0 App developed using  Next JS, Sanity.io, thirdweb, Tailwind CSS, and Vercel ..
 
