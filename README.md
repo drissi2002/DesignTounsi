@@ -16,7 +16,7 @@ Web 3.0 App ,Creating a send and receive functionality for your NFTs on the bloc
   <img src="https://i.imgur.com/Az3rQp2.png"  alt="accessibility text">
 </p>
 <br><br>
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) 
 
 ## Getting Started
 
