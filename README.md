@@ -11,7 +11,7 @@ Create and mint my own NFT Tokens using the thirdweb SDK , Adding Web 3.0 authen
 information about the tokens i created in Sanity.io , how to use GROQ to retrieve data from Sanity Studio and display it in my 
 Web 3.0 App ,Creating a send and receive functionality for my NFTs on the blockchain and Deploying and hosting the app on Vercel  .
 
-# Prototype
+# Preview
 <p align="center">
   <img src="https://i.imgur.com/Az3rQp2.png"  alt="accessibility text">
 </p>
