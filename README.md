@@ -3,8 +3,8 @@
 </p>
 
 
-# NFT-Marketplace
-NFT-Marketplace is a Blockchain Web 3.0 App developed using Next JS, Sanity.io, thirdweb, Tailwind CSS, and Vercel .. 
+# DesignTounsi
+DesignTounsi ,as an NFT-Marketplace , is a Blockchain Web 3.0 App developed using Next JS, Sanity.io, thirdweb, Tailwind CSS, and Vercel .. 
 
 during this project i learned  about: Building a Web 3.0 Application with Next JS ,Styling  app using Styled Components
 Create and mint my own NFT Tokens using the thirdweb SDK , Adding Web 3.0 authentication using Metamask ,Storing data and 
